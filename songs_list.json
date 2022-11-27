@@ -1,5 +1,5 @@
-[
-  {'name': 'The weight', 'album': 'House of the big pink', 'contains': ['Nazareth', 'Fanny'], 'released': 1968},
-  {'name': 'Gimme Shelter', 'album': 'Let it bleed', 'contains': ['war', 'children'], 'released': '1969'},
-  {'name': 'Wish you were here', 'album': 'Wish you were here', 'contains': ['hell', 'skyies'], 'release': '1975'}
-]
+{
+  'The weight': {'album': 'House of the big pink', 'contains': ['Nazareth', 'Fanny'], 'released': 1968},
+  'Gimme Shelter': {'album': 'Let it bleed', 'contains': ['war', 'children'], 'released': '1969'},
+  'Wish you were here': {'album': 'Wish you were here', 'contains': ['hell', 'skyies'], 'release': '1975'}
+}
